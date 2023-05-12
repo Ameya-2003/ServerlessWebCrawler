@@ -3,7 +3,7 @@ Run your function with a test event as input
 `sam local invoke -t ./cdk.out/ServerlessWebCrawlerStack.template.json -e ./events/initiator_event.json`
 
 
-# Welcome to your CDK Python project!
+# Welcome to my CDK Python project!
 
 This is a blank project for CDK development with Python.
 
